@@ -32,7 +32,7 @@ I am a self-taught passionate FrontEnd Developer.
 
 ## 💬 Contact
 - You can personally contact me here: m.beklevic37@gmail.com || mustafabeklevic.me@gmail.com
-- And here is my LinkedIn - [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/mustafabeklevi%C3%A7/)
+- And here is my LinkedIn - [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafabeklevi%C3%A7/)
 
 ## 📑 Stats
 
