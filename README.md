@@ -3,6 +3,9 @@
 I am a self-taught passionate FrontEnd Developer. 
 
 
+Please check my pinned repositories for the lists of Projects on my FrontEnd Development Journey...
+
+
 
 
 ## 📋 Skills
