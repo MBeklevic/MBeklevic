@@ -5,11 +5,6 @@ I am a self-taught passionate FrontEnd Developer. I am currently working with Re
 Please check my pinned repositories for the lists of Projects on my FrontEnd Development Journey...
 
 
-## About Me
-- [LinkedIn](https://linkedin.com/in/mustafabekleviç/)
-- [GitHub](https://github.com/MBeklevic)
-
-
 
 
 
@@ -39,8 +34,10 @@ Please check my pinned repositories for the lists of Projects on my FrontEnd Dev
 
 
 ## 💬 Contact
-- You can personally contact me here: m.beklevic37@gmail.com || mustafabeklevic.me@gmail.com
-- And here is my LinkedIn - [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafabeklevi%C3%A7/)
+- You can personally contact me here:
+-  m.beklevic37@gmail.com || mustafabeklevic.me@gmail.com
+- And here is my LinkedIn 
+- [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafabeklevi%C3%A7/)
 
 ## 📑 Stats
 
