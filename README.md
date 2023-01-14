@@ -1,9 +1,14 @@
 ### Hi there 👋 I am Mustafa Bekleviç
 
-I am a self-taught passionate FrontEnd Developer. 
-
+I am a self-taught passionate FrontEnd Developer. I am currently working with ReactJS
 
 Please check my pinned repositories for the lists of Projects on my FrontEnd Development Journey...
+
+
+## About Me
+- [LinkedIn](https://linkedin.com/in/mustafabekleviç/)
+- [GitHub](https://github.com/MBeklevic)
+
 
 
 
